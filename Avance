@@ -1,0 +1,25 @@
+1. TICKET
+1.1 Ingrese nro de ticket
+1.2 Ingrese fecha y hora de la llamada
+2.4 Ingresar consulta / problema
+
+
+
+2. PRODUCTO
+3.3 Ingresar codigo del producto
+3.4 Ingresar descripcion del producto 
+
+
+2.INGRESAR DATOS DEL CLIENTE
+2.1 Ingrese nombre del cliente
+2.2 Ingrese rut del cliente
+2.3 Ingrese numero telefonico del cliente
+2.4 Ingrese correo electronico cliente
+
+3. CERRAR TICKET
+3,1 Mostrar nombre de quien atendio 
+3.2 Solucion entregada
+
+4. DERIVAR TICKET
+4. Nombre de quien atendio
+4.1 Nombre del especialista 
